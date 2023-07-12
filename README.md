@@ -1,4 +1,5 @@
 Game Winner Prediction - Pubg Dataset
+
 1.Introduction
 PUBG stands for Player's Unkown Battlegrounds, which is a multiplayer game that is available on various platforms which are Windows, Android, IOS, etc. The game features different modes, the three different modes are Classic, Arcade, and EvoGround. In classic, the player will be provided with different maps that range from Erangel, Miramar, Sanhok, and Vikendi. In the arcade mode, there are War, Mini-Zone, Quick Match, and Sniper Training. There are 555 Million Players worldwide playing PUBG on all different platforms, with this huge number comes the ranking difficulty. The basic match of Battle Royal consists of 100 people playing a match with only 1 Winner (who can have Chicken Dinner). Ranking these players on basis of different attributes becomes difficult as there is a possibility of some players with more than one similar ranking.
 
